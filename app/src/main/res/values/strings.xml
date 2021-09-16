@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RoomAPI</string>
+    <string name="dummy">Dummy</string>
+    <string name="img_profile">Img profile</string>
+    <string name="profile_img">Profile Img</string>
+</resources>
